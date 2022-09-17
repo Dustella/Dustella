@@ -16,15 +16,12 @@
 
 #  Hello! Dustella Here.
 
-- TypeScript / Go Fullstack.
-- 时间将激活时间，生活将赋予生活
+TypeScript / Go Fullstack.
+  
+时间将激活时间，生活将赋予生活
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vue,vite,go,vscode,express,arduino,cloudflare,docker,git,heroku,linux,md,mongodb,mysql,nodejs,nginx,ps,pr,postgres,redis,sqlite,tailwind,webpack,windicss,wordpress,workers,bash)](https://skillicons.dev)
-
-
-
-
 
 
 <!-- GitHub Activity Graph -->
