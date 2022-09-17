@@ -1,7 +1,6 @@
 
 
 <div align="center" >
-<img order-radius="100px" src="https://github.com/Dustella.png"/></div>
 
 <br>
 
