@@ -2,7 +2,7 @@
 
 # Hello! Dustella Here.
 
-TypeScript / Go Fullstack.
+TypeScript / Rust / Python / Go Fullstack.
 
 时间将激活时间，生活将赋予生活
 
