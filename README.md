@@ -39,6 +39,6 @@ Numerous projects associated with NUIST can be discovered in my repositories, ra
 
 ## Maimai DX Rating
 
-<img src="https://dxrating.luoling.moe/api/genImage/Dustella?b" />
+<img src="https://dxrating.luoling.moe/api/genImage/Dustella?dummy=dummy" />
 
 在南京或者苏州的舞萌吃们欢迎与我拼机
