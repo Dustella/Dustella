@@ -19,6 +19,8 @@ Just call me `Dustella` or `特菈(Tella)`. I am currently a postgraduate in XJT
 
 - Telegram [@Dustella](https://t.me/dustella)
 
+- Discord [@Dustella](https://discord.com/invite/jFVaECpK)
+
 - Telegram Channel [特菈的日常与奇迹](https://t.me/dailytella)
 
 - Website [https://dustella.net](https://dustella.net)
