@@ -1,17 +1,17 @@
 
 # 👋 Hello! Dustella Here.
   
-Just call me `Dustella` or `特菈(Tella)`. I am currently a postgraduate in XJTLU. Feel free to PM. 
+Just call me `Dustella` or `特菈(Tella)`. I am currently a postgraduate in XJTLU, currently staying at Xiaomi, Frontend Internship. Feel free to PM. 
 
 ## Interests 
 
-- 🧭 **Deep Learning**, focused on `S2S Forecasts` and `Image Segmentation` 
+- 🌍 **Web Development**, skilled at animations and ui stuff.  
 
-- 🌍 **Web Development**, skilled at H5 Game Development and complex animations 
+- 🧭 **Deep Learning**, focused on `PointCloud Segmentation` and `Image Segmentation` 
   
 - ⚒️ **Reverse Engineering**, **Data Science**,  among many other things related to Computer Science
 
-- 🎹 **(New) Maimai DX** (A Music Arcade Game) you are welcome to join me 
+- 🎹 **Maimai DX** (A Music Arcade Game) welcome to join me onsite 
 
 ## Contacts
 
@@ -25,7 +25,7 @@ Just call me `Dustella` or `特菈(Tella)`. I am currently a postgraduate in XJT
 
 - Website [https://dustella.net](https://dustella.net)
 
-## Projects
+<!-- ## Projects
 
 I am currently mantaining two community projects:
 
@@ -33,11 +33,11 @@ I am currently mantaining two community projects:
 
 - [NUISTShare](https://nuistshare.cn), A Resource Sharing Platform for NUIST (Altered to AList right now, new version is under development)
 
-Numerous projects associated with NUIST can be discovered in my repositories, ranging from an automated I-NUIST portal login to sophisticated Typst thesis templates, adapters tailored for the MIAI Curriculum, along with various other tools and resources. 
+Numerous projects associated with NUIST can be discovered in my repositories, ranging from an automated I-NUIST portal login to sophisticated Typst thesis templates, adapters tailored for the MIAI Curriculum, along with various other tools and resources.  -->
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vue,vite,go,rust,vscode,express,arduino,cloudflare,docker,git,heroku,linux,md,mongodb,mysql,nodejs,docker,ae,cs,flask,gitlab,nuxtjs,sass,vercel,octave,powershell,py,nginx,ps,pr,postgres,redis,sqlite,tailwind,webpack,windicss,wordpress,workers,bash,astro,cpp,dotnet,flask,svg,threejs,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,vite,go,rust,vscode,express,arduino,cloudflare,docker,git,heroku,linux,md,mongodb,mysql,nodejs,docker,ae,cs,flask,gitlab,nuxtjs,sass,vercel,octave,powershell,py,nginx,ps,pr,postgres,redis,sqlite,tailwind,webpack,windicss,wordpress,workers,bash,astro,cpp,dotnet,flask,svg,threejs,tensorflow)](https://skillicons.dev)
 
 ## Maimai DX Rating
 
