@@ -1,7 +1,7 @@
 
 # 👋 Hello! Dustella Here.
   
-Just call me `Dustella` or `特菈(Tella)`. I am currently a postgraduate in XJTLU, currently staying at Xiaomi, Frontend Internship. Feel free to PM. 
+Just call me `Dustella` or `特菈(Tella)`. I am currently a postgraduate in XJTLU, Feel free to PM. 
 
 ## Interests 
 
